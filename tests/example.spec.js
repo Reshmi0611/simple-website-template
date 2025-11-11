@@ -20,6 +20,6 @@ import { argosScreenshot } from "@argos-ci/playwright";
 // });
 
 test('get started link', async ({ page }) => {
-  await page.goto('https://playwright.dev/');
+  await page.goto('https://github.com/Reshmi0611/simple-website-template');
 
 });
